@@ -29,10 +29,6 @@ I'm driven by the idea that **AI can transform the world** — not just by autom
 - 🛠️ Open-source experiments and innovation-driven builds.
 - 📚 Notes from my exploration into cutting-edge technologies.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhu1026&show_icons=true&theme=radical)
-
 ## 📈 GitHub Streaks
 
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=shubhu1026&theme=radical)

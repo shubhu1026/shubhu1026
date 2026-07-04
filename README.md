@@ -1,50 +1,71 @@
 # 👋 About Me
 
-Hi, I'm **Shubham Patel**!
+Hi, I'm **Shubham Patel** — a Software Engineer focused on building scalable software systems, distributed applications, and cloud-native solutions.
 
-🎓 I have a background in **Computer Science**, and my journey began with **game development**, creating interactive worlds. Today, my primary passion is **Artificial Intelligence** and **Machine Learning**, where I focus on building impactful solutions.
-
-## 🚀 What I Focus On
-
-- 🤖 **Artificial Intelligence & Machine Learning**  
-  Developing intelligent systems that solve real-world problems. My work spans **deep learning**, **natural language processing (NLP)**, **computer vision**, and **reinforcement learning**. I enjoy taking projects from **model development to deployment** on cloud platforms.
-
-- 🌐 **Cloud & Full-Stack Deployment**  
-  Experienced in deploying ML applications on **AWS (ECS Fargate)**, integrating **FastAPI**, **Gradio**, and building scalable pipelines for real-time inference.
-
-- 🧠 **AI Research and Exploration**  
-  Exploring **generative AI**, **interpretable ML**, and **large language models (LLMs)**, with a focus on continuous learning and cutting-edge innovation.
-
-- 🕹️ **Game Development Enthusiast**  
-  I continue to explore **Unity** and **Unreal Engine**, blending creativity with technical problem-solving.
-
-- 🛠️ **Software Development**  
-  Building efficient applications using **Python**, **PyTorch**, **TensorFlow**, and leveraging cloud platforms like **AWS** and **GCP**.
-
-## 💡 What Drives Me
-
-I'm motivated by the idea that **AI can transform industries and creativity**, not just by automating tasks but by enabling entirely new solutions and experiences.
-
-## 🌟 Featured Projects
-
-Here are some of my recent projects demonstrating real-world AI/ML applications:  
-
-- **Telco Customer Churn Prediction** – End-to-end ML platform with XGBoost, Optuna, and MLflow; deployed on **AWS ECS Fargate** with a Gradio UI. [Live Demo](https://shubham1010.com/ui) | [GitHub](https://github.com/shubhu1026/Customer-Churn-Prediction-End-to-End-Project)  
-- **Semantic Book Recommender** – Hugging Face deployment using **LangChain**, OpenAI embeddings, and FAISS for semantic search. [Live Demo](https://huggingface.co/spaces/shubham1026/Semantic-Book-Recommender) | [GitHub](https://github.com/shubhu1026/Book-recommendation-system)  
-- **RAG Resume Assistant** – Retrieval-Augmented Generation system for querying resumes using **LangChain**, FAISS, and OpenAI. [Live Demo](https://huggingface.co/spaces/shubham1026/rag-resume-assistant) | [GitHub](https://github.com/shubhu1026/RAG-Resume-Agent)  
-- **Trash Detection (Capstone)** – Real-time trash detection for robots using **YOLOv11n**, deployed in embedded environments with Python and OpenCV.  
-- **Traffic Congestion Prediction** – Big data pipeline using **PySpark** on GCP, processing 94.5M+ rows of NYC traffic data with real-time dashboards.  
-- **Leafio – Plant Disease Detection** – Android app powered by CNN model served via Flask API for real-time crop disease detection.
-
-## 📈 GitHub Stats
-
-![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=shubhu1026&theme=radical)
-
-## 📫 Let's Connect
-
-Feel free to reach out here on GitHub or on [LinkedIn](https://www.linkedin.com/in/shubhu1026/).  
-I'm always excited to discuss **AI projects, research ideas, cloud deployments, or creative applications** of technology!
+I enjoy designing and developing end-to-end systems that combine backend engineering, data pipelines, and intelligent features to solve real-world problems.
 
 ---
 
-> 🚀 Let's innovate, build, and shape the future together!
+## 🚀 What I Focus On
+
+- 🧩 **Software Systems Engineering**  
+  Designing scalable applications with clean architecture, REST APIs, and modular backend systems. I focus on reliability, performance, and maintainability in production environments.
+
+- ☁️ **Distributed & Cloud Systems**  
+  Building and deploying cloud-native applications using **AWS**, **Docker**, and distributed processing frameworks like **Spark**, with a focus on scalable system design and infrastructure.
+
+- 🤖 **Intelligent Software Systems (AI Integration)**  
+  Integrating LLMs, RAG pipelines, and computer vision models into production software systems to build intelligent, data-driven applications.
+
+- ⚙️ **Backend Engineering**  
+  Developing APIs and service-layer architectures using **Python**, **FastAPI**, and **Flask**, with emphasis on system design and production readiness.
+
+---
+
+## 💡 What Drives Me
+
+I'm motivated by building systems that are not just functional, but **scalable, reliable, and designed for real-world usage at production scale**.
+
+I enjoy working at the intersection of:
+- system design
+- distributed computing
+- backend architecture
+- applied AI in software systems
+
+---
+
+## 🌟 Featured Projects
+
+- **Customer Churn Prediction Platform**  
+  Cloud-native system for real-time predictions using XGBoost, FastAPI, Docker, and AWS ECS Fargate.  
+  [Live Demo](https://shubham1010.com/ui) | [GitHub](https://github.com/shubhu1026/Customer-Churn-Prediction-End-to-End-Project)
+
+- **RAG Resume Assistant**  
+  Retrieval-augmented document system using vector search and LLM orchestration for semantic querying.  
+  [Live Demo](https://huggingface.co/spaces/shubham1026/rag-resume-assistant) | [GitHub](https://github.com/shubhu1026/RAG-Resume-Agent)
+
+- **Semantic Recommendation Engine**  
+  Embedding-based recommendation system built with vector search and scalable API design.  
+  [Live Demo](https://huggingface.co/spaces/shubham1026/Semantic-Book-Recommender) | [GitHub](https://github.com/shubhu1026/Book-recommendation-system)
+
+- **Distributed Traffic Analytics System**  
+  Large-scale data processing pipeline using Spark on GCP handling 94M+ records with system-level observability.
+
+- **Real-Time Computer Vision System**  
+  Optimized inference pipeline for robotic perception using YOLO and OpenCV with low-latency design.
+
+- **Full-Stack AI Diagnosis System**  
+  End-to-end system combining mobile app + backend APIs + ML inference for real-time plant disease detection.
+
+---
+
+## 📫 Let's Connect
+
+- GitHub: https://github.com/shubhu1026  
+- LinkedIn: https://www.linkedin.com/in/shubham1026/  
+
+I'm always open to discussions around **software engineering, system design, backend architecture, and building production-grade applications**.
+
+---
+
+> 🚀 Building scalable systems. Learning continuously. Shipping real-world software.
